@@ -26,12 +26,16 @@ h1#info {
 }
 
 .icons {
-    padding: 0px 32%;
+    padding: 5px 32%;
     margin: 0px 2px;
 }
 
 @media (max-width: 550px) {
     img#picture {
         left: 36.5%;
+    }
+    .icons {
+        padding: 0px 20%;
+        margin: 0px 30px;
     }
 }
