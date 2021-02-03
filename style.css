@@ -1,0 +1,33 @@
+.line {
+    position: relative;
+    bottom: 100px;
+    top: 0px;
+    background-color: rgb(214, 214, 214);
+    height: 174px;
+    border-bottom: 1px solid black;
+}
+
+img#picture {
+    position: absolute;
+    top: 103px;
+    left: 46.5%;
+}
+
+#into {
+    padding-top: 100px;
+}
+
+h1#info {
+    padding: 20px;
+}
+
+.icons {
+    padding: 0px 32%;
+    margin: 0px 2px;
+}
+
+@media (max-width: 550px) {
+    img#picture {
+        left: 36.5%;
+    }
+}
