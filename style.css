@@ -1,8 +1,12 @@
+body{
+    background-color: blanchedalmond;
+}
+
 .line {
     position: relative;
     bottom: 100px;
     top: 0px;
-    background-color: rgb(214, 214, 214);
+    background-color: rgb(214, 213, 169);
     height: 174px;
     border-bottom: 1px solid black;
 }
